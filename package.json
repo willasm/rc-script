@@ -41,7 +41,7 @@
             "id": "rc-script",
             "aliases": ["RC Script", "rc-script", "rc"],
             "extensions": ["rc"],
-            "configuration": "./language-configuration.json"
+            "configuration": "./src/language-configuration.json"
         }],
         "grammars": [{
             "language": "rc-script",
